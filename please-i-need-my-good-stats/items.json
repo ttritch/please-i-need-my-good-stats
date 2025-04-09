@@ -1,0 +1,393 @@
+{
+    "season-2": {
+        "plate": {
+            "head": [{
+                "name": "Waxsteel Greathelm",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "1212",
+                "secondVal": "784",
+                "source": "Blazikon",
+                "instance": "Darkflame Cleft",
+                "image": "https://icons.wowdb.com/retail/large/inv_helm_plate_earthendungeon_c_01.jpg?60189"
+            }, {
+                "name": "Monstrosity's Gaze",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "784",
+                "secondVal": "1212",
+                "source": "Voidstone Monstrosity",
+                "instance": "The Rookery",
+                "image": "https://icons.wowdb.com/retail/large/inv_helm_plate_earthendungeon_c_01.jpg?60189"
+            }, {
+                "name": "Apogee Inventor's Goggles",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "699",
+                "secondVal": "1297",
+                "source": "King Mechagon",
+                "instance": "Operation: Mechagon",
+                "image": "https://icons.wowdb.com/retail/large/inv_helm_goggles_draenortradeskill_d_01.jpg?60189"
+            }],
+            "shoulder": [{
+                "name": "Foam-Ridden Pauldrons",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "909",
+                "secondVal": "588",
+                "source": "Brew Master Aldryr",
+                "instance": "Cinderbrew Meadery",
+                "image": ""
+            }, {
+                "name": "Reanimator's Pyreforged Shoulders",
+                "firstStat": "Crit",
+                "secondStat": "Vers",
+                "firstVal": "973",
+                "secondVal": "524",
+                "source": "Prioress Murrpray",
+                "instance": "Priory of the Sacred Flame",
+                "image": ""
+            }, {
+                "name": "Unyielding Combatant's Pauldrons",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "973",
+                "secondVal": "524",
+                "source": "Mordretha, the Endless Empress",
+                "instance": "Theater of Pain",
+                "image": ""
+            }, {
+                "name": "Skyscorcher Pauldrons",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "524",
+                "secondVal": "973",
+                "source": "Mogul Razdunk",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
+            }],
+            "chest": [{
+                "name": "Slashproof Business Plate",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "741",
+                "secondVal": "1255",
+                "source": "Goldie Baronbottom",
+                "instance": "Cinderbrew Meadery",
+                "image": "https://icons.wowdb.com/retail/large/inv_chest_plate_earthendungeon_c_01.jpg?60189"
+            }, {
+                "name": "Muckdiver's Wading Plate",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "703",
+                "secondVal": "1291",
+                "source": "Swampface",
+                "instance": "Operation: Floodgate",
+                "image": "https://icons.wowdb.com/retail/large/inv_plate_outdoorundermine_c_01_chest.jpg?60189"
+            }, {
+                "name": "Abdominal Securing Chestguard",
+                "firstStat": "Crit",
+                "secondStat": "Vers",
+                "firstVal": "827",
+                "secondVal": "1169",
+                "source": "Gorechop",
+                "instance": "Theater of Pain",
+                "image": "https://icons.wowdb.com/retail/large/inv_plate_oribosdungeon_c_01_chest.jpg?60189"
+            }, {
+                "name": "Mechanized Plate Chasse",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "699",
+                "secondVal": "1297",
+                "source": "King Mechagon",
+                "instance": "Operation: Mechagon",
+                "image": "https://icons.wowdb.com/retail/large/inv_chest_plate_kultirasdungeon_c_01.jpg?60189"
+            }],
+            "wrist": [{
+                "name": "Fuzzy Cindercuffs",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "706",
+                "secondVal": "417",
+                "source": "Benk Buzzbee",
+                "instance": "Cinderbrew Meadery",
+                "image": ""
+            }, {
+                "name": "Flameforged Armguard",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "706",
+                "secondVal": "417",
+                "source": "Captain Dailcry",
+                "instance": "Priory of the Sacred Flame",
+                "image": ""
+            }, {
+                "name": "Pit Fighter's Wristguards",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "706",
+                "secondVal": "417",
+                "source": "Xav the Unfallen",
+                "instance": "Theater of Pain",
+                "image": ""
+            }, {
+                "name": "Anodized Deflectors",
+                "firstStat": "null",
+                "secondStat": "null",
+                "firstVal": "0",
+                "secondVal": "0",
+                "source": "King Mechagon",
+                "instance": "Operation: Mechagon",
+                "image": "",
+                "special": "Gain Parry and Avoidance for 6 sec, then emit a shockwave the deals damage. (30 sec cooldown)"
+            }, {
+                "name": "Stonefury Vambraces",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "658",
+                "secondVal": "465",
+                "source": "Azerokk",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
+            }],
+            "hands": [{
+                "name": "Caliginous Claspers",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "524",
+                "secondVal": "973",
+                "source": "The Darkness",
+                "instance": "Darkflame Cleft",
+                "image": ""
+            }, {
+                "name": "Jumpstarter's Scaffold-Scrapers",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "536",
+                "secondVal": "962",
+                "source": "Geezle Gigazap",
+                "instance": "Operation: Floodgate",
+                "image": ""
+            }, {
+                "name": "Gauntlets of Absolute Authority",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "763",
+                "secondVal": "734",
+                "source": "King Mechagon",
+                "instance": "Operation: Mechagon",
+                "image": ""
+            }, {
+                "name": "Power-Assisted Vicegrips",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "684",
+                "secondVal": "813",
+                "source": "Coin-Operated Crowd Pummeler",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
+            }],
+            "waist": [{
+                "name": "Lightning-Conductor's Bands",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "588",
+                "secondVal": "909",
+                "source": "Stormguard Gorren",
+                "instance": "The Rookery",
+                "image": ""
+            }, {
+                "name": "Venture Contractor's Floodlight",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "942",
+                "secondVal": "555",
+                "source": "Demolition Duo",
+                "instance": "Operation: Floodgate",
+                "image": ""
+            }, {
+                "name": "Automatic Waist Tightener",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "689",
+                "secondVal": "808",
+                "source": "Machinist's Garden",
+                "instance": "Operation: Mechagon",
+                "image": ""
+            }],
+            "legs": [{
+                "name": "Thunder-Clad Legguards",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "1169",
+                "secondVal": "827",
+                "source": "Kyrioss",
+                "instance": "The Rookery",
+                "image": ""
+            }, {
+                "name": "Galvanized Oxxein Legguards",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "1212",
+                "secondVal": "784",
+                "source": "An Affront of Challengers",
+                "instance": "Theater of Pain",
+                "image": ""
+            }, {
+                "name": "Heavy Alloy Legplates",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "1098",
+                "secondVal": "898",
+                "source": "Tussle Tonks",
+                "instance": "Operation: Mechagon",
+                "image": ""
+            }, {
+                "name": "Leadplate Legguards",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "1169",
+                "secondVal": "827",
+                "source": "Rixxa Fluxflame",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
+            }],
+            "feet": [{
+                "name": "Hops-Laden Greatboots",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "588",
+                "secondVal": "909",
+                "source": "I'pa",
+                "instance": "Cinderbrew Meadery",
+                "image": ""
+            }, {
+                "name": "Devoted Plate Walkers",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "941",
+                "secondVal": "556",
+                "source": "Baron Braunpyke",
+                "instance": "Priory of the Sacred Flame",
+                "image": ""
+            }, {
+                "name": "Pyroclastic Greatboots",
+                "firstStat": "Crit",
+                "secondStat": "Vers",
+                "firstVal": "838",
+                "secondVal": "659",
+                "source": "K.U.-J.O.",
+                "instance": "Operation: Mechagon",
+                "image": ""
+            }, {
+                "name": "Sabatons of Rampaging Elements",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "1005",
+                "secondVal": "492",
+                "source": "Azerokk",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
+            }]
+        },
+        "mail": {
+            "head": [{
+                
+            }],
+            "shoulder": [{
+
+            }],
+            "chest": [{
+                
+            }],
+            "wrist": [{
+
+            }],
+            "hands": [{
+
+            }],
+            "waist": [{
+
+            }],
+            "legs": [{
+
+            }],
+            "feet": [{
+
+            }]
+        },
+        "leather": {
+            "head": [{
+                
+            }],
+            "shoulder": [{
+
+            }],
+            "chest": [{
+                
+            }],
+            "wrist": [{
+
+            }],
+            "hands": [{
+
+            }],
+            "waist": [{
+
+            }],
+            "legs": [{
+
+            }],
+            "feet": [{
+
+            }]
+        },
+        "cloth": {
+            "head": [{
+                
+            }],
+            "shoulder": [{
+
+            }],
+            "chest": [{
+                
+            }],
+            "wrist": [{
+
+            }],
+            "hands": [{
+
+            }],
+            "waist": [{
+
+            }],
+            "legs": [{
+
+            }],
+            "feet": [{
+
+            }]
+        },
+        "misc": {
+            "neck": [{
+
+            }],
+            "back": [{
+
+            }],
+            "finger": [{
+
+            }]
+        },
+        "placeholder": {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+        }
+    }
+}
