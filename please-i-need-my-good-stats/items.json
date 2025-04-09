@@ -37,7 +37,7 @@
                 "secondVal": "588",
                 "source": "Brew Master Aldryr",
                 "instance": "Cinderbrew Meadery",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_shoulder_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Reanimator's Pyreforged Shoulders",
                 "firstStat": "Crit",
@@ -46,7 +46,7 @@
                 "secondVal": "524",
                 "source": "Prioress Murrpray",
                 "instance": "Priory of the Sacred Flame",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_shoulder_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Unyielding Combatant's Pauldrons",
                 "firstStat": "Haste",
@@ -55,7 +55,7 @@
                 "secondVal": "524",
                 "source": "Mordretha, the Endless Empress",
                 "instance": "Theater of Pain",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_plate_oribosdungeon_c_01_shoulder.jpg?60189"
             }, {
                 "name": "Skyscorcher Pauldrons",
                 "firstStat": "Crit",
@@ -64,7 +64,7 @@
                 "secondVal": "973",
                 "source": "Mogul Razdunk",
                 "instance": "The MOTHERLODE!!",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_shoulder_plate_zandalardungeon_c_01.jpg?60189"
             }],
             "chest": [{
                 "name": "Slashproof Business Plate",
@@ -111,7 +111,7 @@
                 "secondVal": "417",
                 "source": "Benk Buzzbee",
                 "instance": "Cinderbrew Meadery",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_bracer_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Flameforged Armguard",
                 "firstStat": "Crit",
@@ -120,7 +120,7 @@
                 "secondVal": "417",
                 "source": "Captain Dailcry",
                 "instance": "Priory of the Sacred Flame",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_bracer_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Pit Fighter's Wristguards",
                 "firstStat": "Vers",
@@ -129,7 +129,7 @@
                 "secondVal": "417",
                 "source": "Xav the Unfallen",
                 "instance": "Theater of Pain",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_plate_oribosdungeon_c_01_bracer.jpg?60189"
             }, {
                 "name": "Anodized Deflectors",
                 "firstStat": "null",
@@ -138,7 +138,7 @@
                 "secondVal": "0",
                 "source": "King Mechagon",
                 "instance": "Operation: Mechagon",
-                "image": "",
+                "image": "https://icons.wowdb.com/retail/large/inv_bracer_plate_kultirasdungeon_c_01.jpg?60189",
                 "special": "Gain Parry and Avoidance for 6 sec, then emit a shockwave the deals damage. (30 sec cooldown)"
             }, {
                 "name": "Stonefury Vambraces",
@@ -148,7 +148,7 @@
                 "secondVal": "465",
                 "source": "Azerokk",
                 "instance": "The MOTHERLODE!!",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_bracer_plate_zandalardungeon_c_01.jpg?60189"
             }],
             "hands": [{
                 "name": "Caliginous Claspers",
@@ -158,7 +158,7 @@
                 "secondVal": "973",
                 "source": "The Darkness",
                 "instance": "Darkflame Cleft",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_glove_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Jumpstarter's Scaffold-Scrapers",
                 "firstStat": "Haste",
@@ -167,7 +167,7 @@
                 "secondVal": "962",
                 "source": "Geezle Gigazap",
                 "instance": "Operation: Floodgate",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_plate_outdoorundermine_c_01_glove.jpg?60189"
             }, {
                 "name": "Gauntlets of Absolute Authority",
                 "firstStat": "Crit",
@@ -176,7 +176,7 @@
                 "secondVal": "734",
                 "source": "King Mechagon",
                 "instance": "Operation: Mechagon",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_glove_plate_kultirasdungeon_c_01.jpg?60189"
             }, {
                 "name": "Power-Assisted Vicegrips",
                 "firstStat": "Vers",
@@ -185,7 +185,7 @@
                 "secondVal": "813",
                 "source": "Coin-Operated Crowd Pummeler",
                 "instance": "The MOTHERLODE!!",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_glove_plate_zandalardungeon_c_01.jpg?60189"
             }],
             "waist": [{
                 "name": "Lightning-Conductor's Bands",
@@ -195,7 +195,7 @@
                 "secondVal": "909",
                 "source": "Stormguard Gorren",
                 "instance": "The Rookery",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_belt_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Venture Contractor's Floodlight",
                 "firstStat": "Crit",
@@ -204,7 +204,7 @@
                 "secondVal": "555",
                 "source": "Demolition Duo",
                 "instance": "Operation: Floodgate",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_plate_outdoorundermine_c_01_belt.jpg?60189"
             }, {
                 "name": "Automatic Waist Tightener",
                 "firstStat": "Crit",
@@ -213,7 +213,7 @@
                 "secondVal": "808",
                 "source": "Machinist's Garden",
                 "instance": "Operation: Mechagon",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_belt_plate_kultirasdungeon_c_01.jpg?60189"
             }],
             "legs": [{
                 "name": "Thunder-Clad Legguards",
@@ -223,7 +223,7 @@
                 "secondVal": "827",
                 "source": "Kyrioss",
                 "instance": "The Rookery",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_pant_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Galvanized Oxxein Legguards",
                 "firstStat": "Haste",
@@ -232,7 +232,7 @@
                 "secondVal": "784",
                 "source": "An Affront of Challengers",
                 "instance": "Theater of Pain",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_plate_oribosdungeon_c_01_pants.jpg?60189"
             }, {
                 "name": "Heavy Alloy Legplates",
                 "firstStat": "Vers",
@@ -241,7 +241,7 @@
                 "secondVal": "898",
                 "source": "Tussle Tonks",
                 "instance": "Operation: Mechagon",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_pant_plate_kultirasdungeon_c_01.jpg?60189"
             }, {
                 "name": "Leadplate Legguards",
                 "firstStat": "Crit",
@@ -250,7 +250,7 @@
                 "secondVal": "827",
                 "source": "Rixxa Fluxflame",
                 "instance": "The MOTHERLODE!!",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_pant_plate_zandalardungeon_c_01.jpg?60189"
             }],
             "feet": [{
                 "name": "Hops-Laden Greatboots",
@@ -260,7 +260,7 @@
                 "secondVal": "909",
                 "source": "I'pa",
                 "instance": "Cinderbrew Meadery",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_boot_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Devoted Plate Walkers",
                 "firstStat": "Vers",
@@ -269,7 +269,7 @@
                 "secondVal": "556",
                 "source": "Baron Braunpyke",
                 "instance": "Priory of the Sacred Flame",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_boot_plate_earthendungeon_c_01.jpg?60189"
             }, {
                 "name": "Pyroclastic Greatboots",
                 "firstStat": "Crit",
@@ -278,7 +278,7 @@
                 "secondVal": "659",
                 "source": "K.U.-J.O.",
                 "instance": "Operation: Mechagon",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_boot_plate_kultirasdungeon_c_01.jpg?60189"
             }, {
                 "name": "Sabatons of Rampaging Elements",
                 "firstStat": "Crit",
@@ -287,7 +287,7 @@
                 "secondVal": "492",
                 "source": "Azerokk",
                 "instance": "The MOTHERLODE!!",
-                "image": ""
+                "image": "https://icons.wowdb.com/retail/large/inv_boot_plate_zandalardungeon_c_01.jpg?60189"
             }]
         },
         "mail": {

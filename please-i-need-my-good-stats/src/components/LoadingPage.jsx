@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
+import Main from "./Main";
 
 function LoadingPage () {
-    const [isLoading, setLoading] = useState(false)
+    const [isLoading, setLoading] = useState(true)
     const [plateItems, setPlateItems] = useState([])
     const [mailItems, setMailItems] = useState([])
     const [leatherItems, setLeatherItems] = useState([])
@@ -18,13 +19,20 @@ function LoadingPage () {
           setLeatherItems(data.leather)
           setClothItems(data.cloth)
           setMiscItems(data.misc)
+          setLoading(false)
         })
       }, [])
 
     return <div>
         { isLoading ? (
-            <img src="./LoadIcon.gif"/>) : (
-            <h3>Loading Successful</h3>
+            <h2>Loading...</h2>) : (
+            <Main 
+                plate={plateItems} 
+                mail={mailItems} 
+                leather={leatherItems} 
+                cloth={clothItems} 
+                misc={miscItems}
+            />
             )}
     </div>
 }
