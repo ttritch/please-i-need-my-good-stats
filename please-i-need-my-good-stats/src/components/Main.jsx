@@ -1,11 +1,13 @@
 import React from "react";
 import ItemBar from "./ItemBar";
+import Filter from "./Filter";
 
-function Main({plate, mail, leather, cloth, misc}) {
+function Main({plate, mail, leather, cloth, misc, all}) {
     const itemTypes = ["head", "shoulder", "chest", "wrist", "hands", "waist", "legs", "feet"]
     return <div>
         <h2> please i need my good stats</h2>
         <div>
+            <Filter all={all}/>
             {itemTypes.map((type) => {
                 return plate[type].map((item) => {
                     return <ItemBar

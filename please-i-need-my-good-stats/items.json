@@ -292,91 +292,1019 @@
         },
         "mail": {
             "head": [{
-                
+                "name": "\"Azeroth's Greatest BEE.E.O.\" Cap",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "1297",
+                "secondVal": "699",
+                "source": "Goldie Baronbottom",
+                "instance": "Cinderbrew Meadery",
+                "image": "" 
+            }, {
+                "name": "Gloaming Visage",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "699",
+                "secondVal": "1297",
+                "source": "The Darkness",
+                "instance": "Darkflame Cleft",
+                "image": ""
+            }, {
+                "name": "Amphitheater Stalker's Hood",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "1169",
+                "secondVal": "827",
+                "source": "An Affront of Challengers",
+                "instance": "Theater of Pain",
+                "image": ""
+            }, {
+                "name": "Psychogenic Prognosticator's Lenses",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "1297",
+                "secondVal": "699",
+                "source": "King Mechagon",
+                "instance": "Operation: Mechagon",
+                "image": ""
             }],
             "shoulder": [{
-
+                "name": "Mole Knight's Grimemail",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "620",
+                "secondVal": "877",
+                "source": "Ol' Waxbeard",
+                "instance": "Darkflame Cleft",
+                "image": ""
+            }, {
+                "name": "Amice of Oblivion",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "556",
+                "secondVal": "941",
+                "source": "Voidstone Monstrosity",
+                "instance": "The Rookery",
+                "image": ""
+            }, {
+                "name": "Skystreak's Hidden Missiles",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "931",
+                "secondVal": "566",
+                "source": "Big M.O.M.M.A.",
+                "instance": "Operation: Floodgate",
+                "image": ""
+            }, {
+                "name": "Crashguard Spaulders",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "973",
+                "secondVal": "524",
+                "source": "Mogul Razdunk",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
             }],
             "chest": [{
-                
+                "name": "Boltbreaker Armor",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "1212",
+                "secondVal": "784",
+                "source": "Stormguard Gorren",
+                "instance": "The Rookery",
+                "image": ""
+            }, {
+                "name": "Bront's Singed Blastcoat",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "720",
+                "secondVal": "1276",
+                "source": "Demolition Duo",
+                "instance": "Operation: Floodgate",
+                "image": ""
+            }, {
+                "name": "Triumphant Combatant's Chainmail",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "1297",
+                "secondVal": "699",
+                "source": "Xav the Unfallen",
+                "instance": "Theater of Pain",
+                "image": ""
+            }, {
+                "name": "Circuit-Linked Chainmail",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "699",
+                "secondVal": "1297",
+                "source": "King Mechagon",
+                "instance": "Operation: Mechagon",
+                "image": ""
+            }, {
+                "name": "Shrapnel-Dampening Chestguard",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "699",
+                "secondVal": "1297",
+                "source": "Mogul Razdunk",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
             }],
             "wrist": [{
-
+                "name": "I'pa's Pale Aleguards",
+                "firstStat": "Crit",
+                "secondStat": "Vers",
+                "firstVal": "706",
+                "secondVal": "417",
+                "source": "I'pa",
+                "instance": "Cinderbrew Meadery",
+                "image": ""
+            }, {
+                "name": "Consecrated Baron's Bindings",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "393",
+                "secondVal": "730",
+                "source": "Baron Braunpyke",
+                "instance": "Priory of the Sacred Flame",
+                "image": ""
+            }, {
+                "name": "Gold-Coated Superconductors",
+                "firstStat": "null",
+                "secondStat": "null",
+                "firstVal": "0",
+                "secondVal": "0",
+                "source": "Tussle Tonks",
+                "instance": "Operation: Mechagon",
+                "image": "",
+                "special": "Taking Nature damage grants you a one minute boost to all secondary stats."
+            }, {
+                "name": "Bindings of Enraged Earth",
+                "firstStat": "Crit",
+                "secondStat": "Vers",
+                "firstVal": "513",
+                "secondVal": "610",
+                "source": "Azerokk",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
             }],
             "hands": [{
-
+                "name": "Holybound Grips",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "973",
+                "secondVal": "524",
+                "source": "Captain Dailcry",
+                "instance": "Priory of the Sacred Flame",
+                "image": ""
+            }, {
+                "name": "Grips of Overwhelming Beatings",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "909",
+                "secondVal": "588",
+                "source": "Gorechop",
+                "instance": "Theater of Pain",
+                "image": ""
+            }, {
+                "name": "Swift Pneumatic Grips",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "868",
+                "secondVal": "629",
+                "source": "K.U.-J.O.",
+                "instance": "Operation: Mechagon",
+                "image": ""
+            }, {
+                "name": "Linked Pummeler Grips",
+                "firstStat": "Crit",
+                "secondStat": "Mastery",
+                "firstVal": "620",
+                "secondVal": "877",
+                "source": "Coin-Operated Crowd Pummeler",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
             }],
             "waist": [{
-
+                "name": "Scent-Strong Candlecord",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "909",
+                "secondVal": "588",
+                "source": "Blazikon",
+                "instance": "Darkflame Cleft",
+                "image": ""
+            }, {
+                "name": "Portable Power Generator",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "543",
+                "secondVal": "954",
+                "source": "Geezle Gigazap",
+                "instance": "Operation: Floodgate",
+                "image": ""
+            }, {
+                "name": "Maniacal Monarch's Girdle",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "674",
+                "secondVal": "823",
+                "source": "King Mechagon",
+                "instance": "Operation: Mechagon",
+                "image": ""
+            }, {
+                "name": "Shalebiter Interlinked Chain",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "684",
+                "secondVal": "813",
+                "source": "Azerokk",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
             }],
             "legs": [{
-
+                "name": "Pollen-Lugger Treads",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "1255",
+                "secondVal": "741",
+                "source": "Benk Buzzbee",
+                "instance": "Cinderbrew Meadery",
+                "image": ""
+            }, {
+                "name": "Divine Pyrewalkers",
+                "firstStat": "Crit",
+                "secondStat": "Vers",
+                "firstVal": "1169",
+                "secondVal": "827",
+                "source": "Prioress Murrpray",
+                "instance": "Priory of the Sacred Flame",
+                "image": ""
+            }, {
+                "name": "Self-Repairing Cuisses",
+                "firstStat": "Vers",
+                "secondStat": "Mastery",
+                "firstVal": "699",
+                "secondVal": "1297",
+                "source": "Machinist's Garden",
+                "instance": "Operation: Mechagon",
+                "image": ""
+            }, {
+                "name": "Chemical Blaster's Legguards",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "1212",
+                "secondVal": "784",
+                "source": "Rixxa Fluxflame",
+                "instance": "The MOTHERLODE!!",
+                "image": ""
             }],
             "feet": [{
-
+                "name": "Gloomstomper's Sabatons",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "556",
+                "secondVal": "941",
+                "source": "The Candle King",
+                "instance": "Darkflame Cleft",
+                "image": ""
+            }, {
+                "name": "Treads of the Galvanic Skysoarer",
+                "firstStat": "Haste",
+                "secondStat": "Mastery",
+                "firstVal": "909",
+                "secondVal": "588",
+                "source": "Kyrioss",
+                "instance": "The Rookery",
+                "image": ""
+            }, {
+                "name": "Boots of Shuddering Matter",
+                "firstStat": "Crit",
+                "secondStat": "Haste",
+                "firstVal": "941",
+                "secondVal": "556",
+                "source": "Kul'tharok",
+                "instance": "Theater of Pain",
+                "image": ""
+            }, {
+                "name": "Regal Mekanospurs",
+                "firstStat": "Haste",
+                "secondStat": "Vers",
+                "firstVal": "689",
+                "secondVal": "808",
+                "source": "King Mechagon",
+                "instance": "Operation: Mechagon",
+                "image": ""
             }]
         },
         "leather": {
             "head": [{
-                
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "shoulder": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "chest": [{
-                
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "wrist": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "hands": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "waist": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "legs": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "feet": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }]
         },
         "cloth": {
             "head": [{
-                
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "shoulder": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "chest": [{
-                
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "wrist": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "hands": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "waist": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "legs": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "feet": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }]
         },
         "misc": {
             "neck": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "back": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }],
             "finger": [{
-
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
+            }, {
+                "name": "",
+                "firstStat": "",
+                "secondStat": "",
+                "firstVal": "",
+                "secondVal": "",
+                "source": "",
+                "instance": "",
+                "image": ""
             }]
         },
         "placeholder": {

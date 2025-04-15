@@ -8,6 +8,7 @@ function LoadingPage () {
     const [leatherItems, setLeatherItems] = useState([])
     const [clothItems, setClothItems] = useState([])
     const [miscItems, setMiscItems] = useState([])
+    const [allItems, setAllItems] = useState([])
     
 
     useEffect(() => {
@@ -19,6 +20,7 @@ function LoadingPage () {
           setLeatherItems(data.leather)
           setClothItems(data.cloth)
           setMiscItems(data.misc)
+          setAllItems(data)
           setLoading(false)
         })
       }, [])
@@ -32,6 +34,7 @@ function LoadingPage () {
                 leather={leatherItems} 
                 cloth={clothItems} 
                 misc={miscItems}
+                all={allItems}
             />
             )}
     </div>
