@@ -4,6 +4,7 @@ import Filter from "./Filter";
 
 function Main({plate, mail, leather, cloth, misc, all}) {
     const itemTypes = ["head", "shoulder", "chest", "wrist", "hands", "waist", "legs", "feet"]
+    const armorTypes = ["plate", "mail", "leather", "cloth", "misc"]
     return <div>
         <h2> please i need my good stats</h2>
         <div>
