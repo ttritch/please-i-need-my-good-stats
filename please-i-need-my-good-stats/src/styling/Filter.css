@@ -1,0 +1,7 @@
+.selected-filter {
+    background-color: gray;
+}
+
+.unselected-filter {
+    background-color: white;
+}

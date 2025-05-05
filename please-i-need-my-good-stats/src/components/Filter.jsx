@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "../styling/Filter.css"
 
 function Filter({plate, mail, leather, cloth, misc, armorFilter, setArmorFilter, setShowMisc}) {
     const [filterPlate, setFilterPlate] = useState(false)
@@ -8,7 +9,7 @@ function Filter({plate, mail, leather, cloth, misc, armorFilter, setArmorFilter,
     const [filterMisc, setFilterMisc] = useState(false)
 
     return <div>
-        <button onClick={() => {
+        <button className={ filterPlate ? 'selected-filter' : 'unselected-filter'} onClick={() => {
             if(filterPlate == true) {
                 setArmorFilter([plate, mail, leather, cloth])
                 setFilterPlate(false)
@@ -17,10 +18,14 @@ function Filter({plate, mail, leather, cloth, misc, armorFilter, setArmorFilter,
             else {
                 setArmorFilter([plate])
                 setShowMisc(false)
+                setFilterMisc(false)
                 setFilterPlate(true)
+                setFilterMail(false)
+                setFilterLeather(false)
+                setFilterCloth(false)
             }
         }}>Plate</button>
-        <button onClick={() => {
+        <button className={ filterMail ? 'selected-filter' : 'unselected-filter'} onClick={() => {
             if(filterMail == true) {
                 setArmorFilter([plate, mail, leather, cloth])
                 setFilterMail(false)
@@ -29,10 +34,14 @@ function Filter({plate, mail, leather, cloth, misc, armorFilter, setArmorFilter,
             else {
                 setArmorFilter([mail])
                 setShowMisc(false)
+                setFilterMisc(false)
+                setFilterPlate(false)
                 setFilterMail(true)
+                setFilterLeather(false)
+                setFilterCloth(false)
             }
         }}>Mail</button>
-        <button onClick={() => {
+        <button className={ filterLeather ? 'selected-filter' : 'unselected-filter'} onClick={() => {
             if(filterLeather == true) {
                 setArmorFilter([plate, mail, leather, cloth])
                 setFilterLeather(false)
@@ -41,10 +50,14 @@ function Filter({plate, mail, leather, cloth, misc, armorFilter, setArmorFilter,
             else {
                 setArmorFilter([leather])
                 setShowMisc(false)
+                setFilterMisc(false)
+                setFilterPlate(false)
+                setFilterMail(false)
                 setFilterLeather(true)
+                setFilterCloth(false)
             }
         }}>Leather</button>
-        <button onClick={() => {
+        <button className={ filterCloth ? 'selected-filter' : 'unselected-filter'} onClick={() => {
             if(filterCloth == true) {
                 setArmorFilter([plate, mail, leather, cloth])
                 setFilterCloth(false)
@@ -53,10 +66,14 @@ function Filter({plate, mail, leather, cloth, misc, armorFilter, setArmorFilter,
             else {
                 setArmorFilter([cloth])
                 setShowMisc(false)
+                setFilterMisc(false)
+                setFilterPlate(false)
+                setFilterMail(false)
+                setFilterLeather(false)
                 setFilterCloth(true)
             }
         }}>Cloth</button>
-        <button onClick={() => {
+        <button className={ filterMisc ? 'selected-filter' : 'unselected-filter'} onClick={() => {
             if(filterMisc == true) {
                 setArmorFilter([plate, mail, leather, cloth])
                 setFilterMisc(false)
@@ -66,6 +83,10 @@ function Filter({plate, mail, leather, cloth, misc, armorFilter, setArmorFilter,
                 setArmorFilter([])
                 setShowMisc(true)
                 setFilterMisc(true)
+                setFilterPlate(false)
+                setFilterMail(false)
+                setFilterLeather(false)
+                setFilterCloth(false)
             }
         }}>Misc</button>
         <p></p>
