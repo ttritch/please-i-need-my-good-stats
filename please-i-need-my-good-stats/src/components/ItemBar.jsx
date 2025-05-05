@@ -10,8 +10,16 @@ function ItemBar ({name, firstStat, secondStat, firstVal, secondVal, source, ins
             onMouseOver={() => setIsVisible(true)}
             onMouseLeave={() => setIsVisible(false)}
         />
-        {isVisible && <Tooltip source={source}/>}
-        <span> {name} </span>
+        {isVisible && <Tooltip 
+            name={name}
+            source={source}
+            firstStat={firstStat}
+            secondStat={secondStat}
+            firstVal={firstVal}
+            secondVal={secondVal}
+            instance={instance}
+        />}
+        {isVisible || <span>{name}</span>}
     </div>
 }
 
